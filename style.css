@@ -3,7 +3,7 @@ body {
   /* Typography */
   font-family: 'Yanone Kaffeesatz', sans-serif;
 
-  font-size: 20px;
+  /* font-size: 30px; */
   background-image: url("https://i.pinimg.com/originals/58/18/6f/58186fbe47ad91764162c87e7fcc5f3b.jpg");
   
 }
@@ -132,7 +132,7 @@ main {
   font-family: 'Trade Winds';
 
   /* Typography */
-  font-size: 32px;
+  /* font-size: 40px; */
   font-weight: bold;
   color: #4aaaa5;
 }
