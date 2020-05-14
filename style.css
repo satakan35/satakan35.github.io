@@ -2,9 +2,9 @@
 body {
   /* Typography */
   font-family: 'Yanone Kaffeesatz', sans-serif;
-
+background-color: silver;
   /* font-size: 30px; */
-  background-image: url("https://i.pinimg.com/originals/58/18/6f/58186fbe47ad91764162c87e7fcc5f3b.jpg");
+  /* background-image: url("https://i.pinimg.com/originals/58/18/6f/58186fbe47ad91764162c87e7fcc5f3b.jpg"); */
   
 }
 
@@ -23,7 +23,7 @@ main {
 
 /* create styles for use for all white main boxes */
 .block {
-  background-color:rgba(106, 206, 242, 0.673);
+  background-color:rgba(106, 206, 242, 0.995);
 
   padding: 30px;
   margin-bottom: 30px;
@@ -37,17 +37,17 @@ main {
 }
 
 /* NAV START */
-#logo {
+/* #logo {
   font-family: Georgia, Times, "Times New Roman", serif;
 
-  /* Typography */
+  
   font-size: 30px;
   font-weight: bold;
-  color: rgb(21, 145, 240);
+  color: rgb(57, 240, 21);
 
-  /* Visual */
+  
   background: #dca009;
-}
+} */
 
 /* override bootstrap hover color and border */
 .navbar-default .navbar-nav > li > a:hover {
@@ -102,7 +102,7 @@ main {
   height: 60px;
 
   /* Visual */
-  background-color: grey;
+  background-color: rgba(167, 19, 19, 0.831);
 }
 
 .text-muted-footer {
@@ -151,6 +151,7 @@ main {
 /* PORTFOLIO PAGE */
 .port-image {
   margin: 20px auto;
+  
 }
 /* END PORTFOLIO PAGE */
 
@@ -175,7 +176,7 @@ main {
   color: #fff;
 
   /* Visual */
-  background-color: #4aaaa5;
+  background-color: #4aaaa58e;
   border: 0;
 }
 
@@ -184,3 +185,7 @@ main {
 }
 
 /* END CONTACT FORM PAGE */
+.aa {
+  color: rgb(141, 11, 11);
+  text-align: center;
+}
